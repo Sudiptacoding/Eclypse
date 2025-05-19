@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Silhouette No. 1 – Vermilion",
+    "price": 7999,
+    "description": "A reflection of timeless style with vermilion red shade.",
+    "images": [
+      "https://i.postimg.cc/bNw9dCJS/Frame-3.png",
+      "https://i.postimg.cc/bNw9dCJS/Frame-3.png"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "Vermilion"
+  },
+  {
+    "id": "2",
+    "name": "Minimal Blazer – Ash",
+    "price": 5499,
+    "description": "Perfect for your quiet luxury statement.",
+    "images": [
+      "https://i.postimg.cc/G2pmvysK/Frame-18.png",
+      "https://i.postimg.cc/G2pmvysK/Frame-18.png"
+    ],
+    "sizes": ["M", "L"],
+    "color": "Ash Grey"
+  },
+  {
+    "id": "3",
+    "name": "Silhouette No. 1 – Vermilion",
+    "price": 7999,
+    "description": "A reflection of timeless style with vermilion red shade.",
+    "images": [
+      "https://i.postimg.cc/W16NKnGS/Frame-18-1.png",
+      "https://i.postimg.cc/W16NKnGS/Frame-18-1.png"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "Vermilion"
+  },
+  {
+    "id": "4",
+    "name": "Minimal Blazer – Ash",
+    "price": 5499,
+    "description": "Perfect for your quiet luxury statement.",
+    "images": [
+      "https://i.postimg.cc/B6tJjfdw/Frame-18-2.png",
+      "https://i.postimg.cc/B6tJjfdw/Frame-18-2.png"
+    ],
+    "sizes": ["M", "L"],
+    "color": "Ash Grey"
+  },
+  {
+    "id": "5",
+    "name": "Silhouette No. 1 – Vermilion",
+    "price": 7999,
+    "description": "A reflection of timeless style with vermilion red shade.",
+    "images": [
+      "https://i.postimg.cc/MTcXhBKT/Frame-19.png",
+      "https://i.postimg.cc/MTcXhBKT/Frame-19.png"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "Vermilion"
+  },
+  {
+    "id": "6",
+    "name": "Minimal Blazer – Ash",
+    "price": 5499,
+    "description": "Perfect for your quiet luxury statement.",
+    "images": [
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    ],
+    "sizes": ["M", "L"],
+    "color": "Ash Grey"
+  },
+  {
+    "id": "7",
+    "name": "Silhouette No. 1 – Vermilion",
+    "price": 7999,
+    "description": "A reflection of timeless style with vermilion red shade.",
+    "images": [
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "Vermilion"
+  },
+  {
+    "id": "8",
+    "name": "Minimal Blazer – Ash",
+    "price": 5499,
+    "description": "Perfect for your quiet luxury statement.",
+    "images": [
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    ],
+    "sizes": ["M", "L"],
+    "color": "Ash Grey"
+  },
+  {
+    "id": "9",
+    "name": "Minimal Blazer – Ash",
+    "price": 7999,
+    "description": "A tailored composition in motion. Cut from structured wool with a sculpted shoulder and softened hem, this piece captures presence without force. Worn here in the stillness of a city in motion..",
+    "images": [
+      "https://i.postimg.cc/x1Xx1K3Q/Rectangle-2.png",
+      "https://i.postimg.cc/Z5XfBCwd/Frame-12.png",
+      "https://i.postimg.cc/VvHqxVTC/Frame-11.png",
+      "https://i.postimg.cc/gjrRHKJk/Frame-13.png"
+    ],
+    "sizes": ["M", "L"],
+    "color": "Ash Grey"
+  }
+]
